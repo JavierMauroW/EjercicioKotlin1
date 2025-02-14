@@ -6,5 +6,14 @@ println("Hola")
     println("Comer")
     println("HOLA")
 
+
+    println("Suma")
+
+    println("Resta")
+
+    println("Multiplicar")
+
+    println("Dividir")
+
 }
 
